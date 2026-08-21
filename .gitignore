@@ -1,0 +1,4 @@
+# Dist/build outputs
+/dist/*
+/node_modules/*
+/**/*.tsbuildinfo
